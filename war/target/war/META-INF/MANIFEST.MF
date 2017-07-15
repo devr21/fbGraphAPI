@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: war Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: wii
+Specification-Title: war Maven Webapp
+Implementation-Vendor-Id: com.fbgraph.api
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_101
+Specification-Version: 1.0-SNAPSHOT
+
